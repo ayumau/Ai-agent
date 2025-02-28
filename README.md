@@ -1,4 +1,4 @@
-# Project Dashboard
+# v0 agent Dashboard
 
 This is a dynamic and responsive project management dashboard built with Next.js, Tailwind CSS, and Shadcn UI components. The dashboard helps track project progress with planning and execution phases, providing a smooth and interactive user experience.
 
