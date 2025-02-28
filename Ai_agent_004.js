@@ -1,5 +1,4 @@
-"use client"
-
+  "v0 by vercel"
 import { useState } from "react"
 import { Code, FileText, Info, Layers, MessageSquare, Settings, Zap } from "lucide-react"
 import { Button } from "@/components/ui/button"
