@@ -1,4 +1,4 @@
-"use client"
+
 
 import { useState } from "react"
 import { Bot, Code, FileText, Info, Layers, MessageSquare, Settings, Zap } from "lucide-react"
